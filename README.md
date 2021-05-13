@@ -1,4 +1,4 @@
 # My-Github-Action-Test
 Evironments:
   Development
-  Staging
+  Staging (need approval)
